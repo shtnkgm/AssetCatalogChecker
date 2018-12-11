@@ -23,7 +23,13 @@ $ sh AssetCatalogChecker.sh ./MyApp
 ==> 🍺 Finished!!!
 ```
 
-### usage
+### Target File Type
+ - .xib
+ - .storyboard
+ - .m
+ - .swift
+
+### Usage
 
 ```bash
 # Download Script
