@@ -2,7 +2,7 @@
 
 find unused image assets in asset catalogs
 
-```bash
+```
 $ sh AssetCatalogChecker.sh ./MyApp
 ==> Target Directory ./MyApp
 ==> ❌ "dev" not found
