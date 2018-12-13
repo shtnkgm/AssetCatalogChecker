@@ -1,6 +1,6 @@
 # Asset Catalog Checker
 
-find unused image assets in asset catalogs
+ShellScript to find unused image assets in iOS asset catalogs
 
 ```
 $ sh AssetCatalogChecker.sh ./MyApp
