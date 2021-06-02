@@ -31,10 +31,14 @@ $ sh AssetCatalogChecker.sh ./MyApp
 
 ### Usage
 
-```bash
-# Download Script
-wget https://raw.githubusercontent.com/shtnkgm/AssetCatalogChecker/master/AssetCatalogChecker.sh
+Download Script
 
-# Run Script
+```bash
+wget https://raw.githubusercontent.com/shtnkgm/AssetCatalogChecker/master/AssetCatalogChecker.sh
+```
+
+Run Script
+
+```
 sh AssetCatalogChecker.sh <path_to_project>
 ```
